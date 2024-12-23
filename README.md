@@ -1,5 +1,3 @@
-# disability_and_music
-
 # Glow - Big Ocean
 
 ![glow - big ocean live performance](https://youtu.be/9aO2P5Tby-4?si=tmeGOt8SKJtw39Cz)
